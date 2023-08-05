@@ -27,12 +27,12 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Youtube Clone',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: '/images/youtube.png',
-    tags: ['React', 'Styled-components', 'Javascript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'API Project',
+    description: "It's my first API used project.I had experience with APIs and I learned how to fetch data and much more.",
+    image: '/images/api.png',
+    tags: ['React', 'Styled-components', 'API'],
+    source: 'https://github.com/Karimovvv/apiProject',
+    visit: 'https://api-project-ivory.vercel.app/',
     id: 3,
   },
 ];
